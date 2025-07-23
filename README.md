@@ -31,8 +31,8 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
 
 <table class="center">
   <tr style="font-weight: bolder;text-align:center;">
-        <td width="40%"><b>Original video</b></td>
-        <td width="60%"><b>Lip-synced video</b></td>
+        <td width="37%"><b>Original video</b></td>
+        <td width="63%"><b>Lip-synced video</b></td>
   </tr>
   <tr>
     <td>
