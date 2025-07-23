@@ -25,7 +25,12 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
 <p align='center'>  
     <img src='assets/0_1.png' width='1200'/>
     <img src='assets/1_1.png' width='1200'/>
-    <img src='assets/2_1.png' width='1200'/>
+    <img src='assets/1_0.png' width='1200'/>
+    <img src='assets/4_0.png' width='1200'/>
+    <img src='assets/4_1.png' width='1200'/>
+    <img src='assets/3_0.png' width='1200'/>
+    <img src='assets/2_0.png' width='1200'/>
+    <img src='assets/3_1.png' width='1200'/>
 </p>
 
 
