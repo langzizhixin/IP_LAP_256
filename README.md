@@ -5,25 +5,25 @@ We have done the following work:
 1. Add video cutting codes.
 2. Add filelists to generate code.
 3. Trained 1000 people, 50 hours, and over 50000 pieces of data.
-4. Dear friends, we released the best discriminator checkpoint, you need load pre training weights for easy subsequent training, many people have loaded our color_checkpoints and final_checkpionts for training, and achieved good results.Especially when solving profile and occlusion problems, it is only necessary to load the relevant dataset and continue training.
+4. Dear friends, we no released the best landmark  checkpoint, you need load pre training weights for easy subsequent training, but we released the best renderer checkpoint ,you can use it directly
 5. If you want to achieve better reasoning results, then refer to my demo video for shooting.
 
 ## 🏗️ IP_LAP_256 Project situation
 <p align='center'>
   <b>
-    <a href="https://www.bilibili.com/video/BV1WsFVePEuz/?spm_id_from=333.1387.upload.video_card.click">Video </a>
+    <a href="https://www.bilibili.com/video/BV1xi53zbELH/?spm_id_from=333.1387.upload.video_card.click">Video </a>
     | 
     <a href="https://github.com/langzizhixin">Project Page</a>
     |
-    <a href="https://github.com/langzizhixin/wav2lip384x384">Code</a> 
+    <a href="https://github.com/langzizhixin/IP_LAP_256">Code</a> 
   </b>
 </p> 
 
-checkpoints for wav2lip384x384   https://pan.baidu.com/s/1NiSEdrlRVZM_6SD4Igdtlg?pwd=lzzx 
+checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6SD4Igdtlg?pwd=lzzx 
 
-## 📊 The following pictures are comparison images of the training generator training 500000 steps.
+## 📊 The following pictures are comparison images of the training generator training 300000 steps.
 <p align='center'>  
-    <img src='assets/11.jpg' width='1200'/>
+    <img src='assets/0_1.png' width='1200'/>
 </p>
 
 
@@ -36,10 +36,10 @@ checkpoints for wav2lip384x384   https://pan.baidu.com/s/1NiSEdrlRVZM_6SD4Igdtlg
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/fe1e00fc-14d9-4fb1-84ae-3b6f18d2f070 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/69c9ba4f-5d8b-4abb-badf-a4b6c52acf71 controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/992ddb9b-d756-4e7b-90dc-6e3e320cefaf controls preload></video>
+      <video src=https://github.com/user-attachments/assets/2a33a948-e241-4064-a39a-93e90deecdac controls preload></video>
     </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ For the wav2lip series, we will continue to train and release higher definition 
 The plan is as follows:
 Pre training checkpoints for wav2lip_288x288 will be released in January 2025.
 Pre training checkpoints for wav2lip_384x384 will be released in February 2025.
-Pre training checkpoints for wav2lip_576x576 or 512x512 will be released after June 2025.
+Pre training checkpoints for IP_LAP_256 will be released after June 2025.
 - [x] color_checkpoints  
 - [x] final_checkpionts
 - [x] Dataset processing pipeline
