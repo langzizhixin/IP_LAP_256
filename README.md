@@ -27,6 +27,7 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
     <img src='assets/4_1.png' width='1200'/>
     <img src='assets/1_0.png' width='1200'/>
     <img src='assets/4_0.png' width='1200'/>
+  
 ## 📊 The following pictures are comparison images of the training generator training 500000 steps.
 <p align='center'>  
     <img src='assets/1_1.png' width='1200'/>
@@ -40,8 +41,8 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
 
 <table class="center">
   <tr style="font-weight: bolder;text-align:center;">
-        <td width="35%"><b>Original video</b></td>
-        <td width="65%"><b>Lip-synced video</b></td>
+        <td width="30%"><b>Original video</b></td>
+        <td width="60%"><b>Lip-synced video</b></td>
   </tr>
   <tr>
     <td>
