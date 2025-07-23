@@ -27,6 +27,8 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
     <img src='assets/1_1.png' width='1200'/>
     <img src='assets/1_0.png' width='1200'/>
     <img src='assets/4_0.png' width='1200'/>
+## 📊 The following pictures are comparison images of the training generator training 500000 steps.
+<p align='center'>  
     <img src='assets/4_1.png' width='1200'/>
     <img src='assets/3_0.png' width='1200'/>
     <img src='assets/2_0.png' width='1200'/>
@@ -38,8 +40,8 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
 
 <table class="center">
   <tr style="font-weight: bolder;text-align:center;">
-        <td width="37%"><b>Original video</b></td>
-        <td width="63%"><b>Lip-synced video</b></td>
+        <td width="36%"><b>Original video</b></td>
+        <td width="64%"><b>Lip-synced video</b></td>
   </tr>
   <tr>
     <td>
@@ -66,10 +68,10 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
     </td>
   </tr>
   <tr>
-    <td width=500px>
+    <td width=600px>
       <video src=https://github.com/user-attachments/assets/8e5f6a2a-9df8-489d-bcc4-8b58ded659cf controls preload></video>
     </td>
-    <td width=500px>
+    <td width=600px>
       <video src=https://github.com/user-attachments/assets/5a66a980-2e3f-4a47-9722-4aec034477e2 controls preload></video>
     </td>
   </tr>
