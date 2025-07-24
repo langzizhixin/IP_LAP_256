@@ -108,7 +108,7 @@ https://github.com/Weizhi-Zhong/IP_LAP
 
 
 ## 📖 Disclaimers
-This repositories made by langzizhixin from Langzizhixin Technology company 2025.7.30 , in Chengdu, China .
+This repositories made by langzizhixin from Langzizhixin Technology company 2025.7.20 , in Chengdu, China .
 The above code and weights can only be used for personal/research/non-commercial purposes.
 Especially for digital human video models in the warehouse, if commercial use is required, please contact the model themselves for authorization.
 If you need a higher definition model, please contact us by email 277504483@qq.com, ajian.justdoit@gmail.com or add ours WeChat for communication: langzizhixinkeji 
