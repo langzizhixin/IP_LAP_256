@@ -1,4 +1,4 @@
-# IP_LAP_256 is ours LangXin_V2 Commercial code, mainly used for 2024.
+# IP_LAP_256 is ours LangXin_V2 Commercial code, mainly used for 2024. 这是一个可以还原本人牙齿和嘴型的泛化数字人商用项目。
 This is a project about talking faces. It is a commercial digital human project that faithfully reproduces human faces, mouths, and teeth.We use 256X256 sized facial images for training, Because his face is cut from the forehead, the face size of 256X256 is equivalent to the face size of wav2lip384. So it can generate 720p, 1080p, 2k ,4k Digital Humanhuman videos. 
 This model innovatively uses attention mechanism, which can reference the mouth shape of the face in the previous and subsequent frames to generate new mouth shapes. Thus achieving the restoration of one's own teeth and mouth shape.
 IP_LAP use a network structure of 128x128  , IP_LAP_256 use a network structure of 256x256.
