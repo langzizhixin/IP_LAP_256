@@ -1,10 +1,10 @@
 # IP_LAP_256 is ours LangXin_V2 
-This is a project about talking faces. We use 256X256 sized facial images for training, which can generate720p, 1080p, 2k ,4k Digital Humanhuman videos.
-IP_LAP use 128x128 
+This is a project about talking faces. We use 256X256 sized facial images for training, Because his face is cut from the forehead, the face size of 256X256 is equivalent to the face size of wav2lip384. So it can generate 720p, 1080p, 2k ,4k Digital Humanhuman videos.
+IP_LAP use a network structure of 128x128  , IP_LAP_256 use a network structure of 256x256.
 We have done the following work:
 1. Add video cutting codes.
 2. Add filelists to generate code.
-3. Trained 1000 people, 50 hours, and over 50000 pieces of data.
+3. Trained 1000 people, 50 hours dataset, and over 50000 pieces of data.
 4. Dear friends, we no released the best landmark  checkpoint, you need load pre training weights for easy subsequent training, but we released the best renderer checkpoint ,you can use it directly
 5. If you want to achieve better reasoning results, then refer to my demo video for shooting.
 
@@ -21,14 +21,14 @@ We have done the following work:
 
 checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6SD4Igdtlg?pwd=lzzx 
 
-## 📊 The following pictures are comparison images of the training generator training 300000 steps.
+## 📊 The following pictures are comparison images of the training generator training 200000 steps.
 <p align='center'>  
     <img src='assets/0_1.png' width='1200'/>
     <img src='assets/4_1.png' width='1200'/>
     <img src='assets/1_0.png' width='1200'/>
     <img src='assets/4_0.png' width='1200'/>
   
-## 📊 The following pictures are comparison images of the training generator training 500000 steps.
+## 📊 The following pictures are comparison images of the training generator training 300000 steps.
 <p align='center'>  
     <img src='assets/1_1.png' width='1200'/>
     <img src='assets/3_0.png' width='1200'/>
