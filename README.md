@@ -1,5 +1,5 @@
 # IP_LAP_256 is ours LangXin_V2 
-This is a project about talking faces. We use 256X256 sized facial images for training, Because his face is cut from the forehead, the face size of 256X256 is equivalent to the face size of wav2lip384. So it can generate 720p, 1080p, 2k ,4k Digital Humanhuman videos.
+This is a project about talking faces. It is a commercial digital human project that faithfully reproduces human faces, mouths, and teeth.We use 256X256 sized facial images for training, Because his face is cut from the forehead, the face size of 256X256 is equivalent to the face size of wav2lip384. So it can generate 720p, 1080p, 2k ,4k Digital Humanhuman videos.
 IP_LAP use a network structure of 128x128  , IP_LAP_256 use a network structure of 256x256.
 We have done the following work:
 1. Add video cutting codes.
