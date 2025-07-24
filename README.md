@@ -3,10 +3,11 @@ This is a project about talking faces. It is a commercial digital human project 
 IP_LAP use a network structure of 128x128  , IP_LAP_256 use a network structure of 256x256.
 We have done the following work:
 1. Add video cutting codes.
-2. Add filelists to generate code.
+2. Optimized the network structure and increased the clarity of face segmentation.
 3. Trained 1000 people, 50 hours dataset, and over 50000 pieces of data.
-4. Dear friends, we no released the best landmark  checkpoint, you need load pre training weights for easy subsequent training, but we released the best renderer checkpoint ,you can use it directly
-5. If you want to achieve better reasoning results, then refer to my demo video for shooting.
+4. Dear friends, we no released the best landmark  checkpoint, you need load pre training weights for easy subsequent training. but we released the best renderer checkpoint ,you can use it directly.
+5. Of course, you can also use a 1-minute video for fine-tuning training to achieve better commercial results.
+6. If you want to achieve better reasoning results, then refer to my demo video for shooting.
 
 ## 🏗️ IP_LAP_256 Project situation
 <p align='center'>
