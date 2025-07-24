@@ -1,5 +1,6 @@
 # IP_LAP_256 is ours LangXin_V2 
-This is a project about talking faces. It is a commercial digital human project that faithfully reproduces human faces, mouths, and teeth.We use 256X256 sized facial images for training, Because his face is cut from the forehead, the face size of 256X256 is equivalent to the face size of wav2lip384. So it can generate 720p, 1080p, 2k ,4k Digital Humanhuman videos.
+This is a project about talking faces. It is a commercial digital human project that faithfully reproduces human faces, mouths, and teeth.We use 256X256 sized facial images for training, Because his face is cut from the forehead, the face size of 256X256 is equivalent to the face size of wav2lip384. So it can generate 720p, 1080p, 2k ,4k Digital Humanhuman videos. 
+This model innovatively uses attention mechanism, which can reference the mouth shape of the face in the previous and subsequent frames to generate new mouth shapes. Thus achieving the restoration of one's own teeth and mouth shape.
 IP_LAP use a network structure of 128x128  , IP_LAP_256 use a network structure of 256x256.
 We have done the following work:
 1. Add video cutting codes.
@@ -86,12 +87,12 @@ The plan is as follows:
 Pre training checkpoints for wav2lip_288x288 will be released in January 2025.
 Pre training checkpoints for wav2lip_384x384 will be released in February 2025.
 Pre training checkpoints for IP_LAP_256 will be released after June 2025.
-- [x] color_checkpoints  
-- [x] final_checkpionts
+- [x] landmark_checkpoints  
+- [x] renderer_checkpionts
 - [x] Dataset processing pipeline
 - [x] Training method
-- [x] Advanced Inference
-- [x] Real time Inference 
+- [x] Inference
+- [ ] Real time Inference 
 - [ ] Higher definition commercial checkpoints
 
 
