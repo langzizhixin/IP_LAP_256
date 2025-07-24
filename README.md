@@ -26,7 +26,7 @@ We have done the following work:
 checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6SD4Igdtlg?pwd=lzzx 
 
 ## 📊 The following pictures are comparison images of the training generator training 200000 steps.
-## 📊 The second to last image was generated.
+## 📊 The second to last image is the generated digital human image.
 <p align='center'>  
     <img src='assets/0_1.png' width='1200'/>
     <img src='assets/4_1.png' width='1200'/>
@@ -34,7 +34,7 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
     <img src='assets/4_0.png' width='1200'/>
   
 ## 📊 The following pictures are comparison images of the training generator training 300000 steps.
-## 📊 The second to last image was generated.
+## 📊 The second to last image is the generated digital human image.
 <p align='center'>  
     <img src='assets/1_1.png' width='1200'/>
     <img src='assets/3_0.png' width='1200'/>
