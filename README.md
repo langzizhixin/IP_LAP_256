@@ -84,11 +84,12 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
 </table>
 
 ## 📑 Open-source Plan
-For the wav2lip series, we will continue to train and release higher definition weights in the future.
+For digital human projects , we will continue to train and release higher definition weights in the future.
 The plan is as follows:
-Pre training checkpoints for wav2lip_288x288 will be released in January 2025.
-Pre training checkpoints for wav2lip_384x384 will be released in February 2025.
-Pre training checkpoints for IP_LAP_256 will be released after June 2025.
+Pre training checkpoints for wav2lip_288x288 (LangXin_V0) will be released in January 2025.
+Pre training checkpoints for wav2lip_384x384 (LangXin_V1) will be released in February 2025.
+Pre training checkpoints for IP_LAP_256 (LangXin_V2) will be released after June 2025.
+Pre training checkpoints for  (LangXin_V3) will be released after June 2026.
 - [x] landmark_checkpoints  
 - [x] renderer_checkpionts
 - [x] Dataset processing pipeline
