@@ -60,26 +60,26 @@ checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/c1228614-ff01-469b-ae83-a612ce19e70f controls preload></video>
+      <video src=https://github.com/user-attachments/assets/ecba6a6b-9d52-40a5-92f1-6c29a5cb8a7a controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/322688b8-f1ac-47d4-9094-5b9b66064c06 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/cb0712ff-026e-45d9-87af-f95434c6ae60 controls preload></video>
     </td>
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/e1a1e074-1461-4848-8511-c79d875f8bee controls preload></video>
+      <video src=https://github.com/user-attachments/assets/73026e3a-b3cf-47d9-9d27-50a94dcceb78 controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/7eba86fa-69fb-4496-9eaa-41d509cb9123 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/520548fb-782f-4fed-9603-c6861a8b70ab controls preload></video>
     </td>
   </tr>
   <tr>
     <td width=600px>
-      <video src=https://github.com/user-attachments/assets/8e5f6a2a-9df8-489d-bcc4-8b58ded659cf controls preload></video>
+      <video src=https://github.com/user-attachments/assets/d533df8d-381c-492b-bea1-d23de37e20c6 controls preload></video>
     </td>
     <td width=600px>
-      <video src=https://github.com/user-attachments/assets/5a66a980-2e3f-4a47-9722-4aec034477e2 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/31622741-077e-45f8-a01e-785d89f1113b controls preload></video>
     </td>
   </tr>
   <tr>
