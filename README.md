@@ -7,7 +7,7 @@ IP_LAP use a network structure of 128x128  , IP_LAP_256 use a network structure 
 We have done the following work:
 1. Add video cutting codes.
 2. Optimized the network structure and increased the clarity of face segmentation.
-3. Trained 1000 people, 50 hours dataset, and over 50000 pieces of data. landmarks model eval_L1_loss needs to be reduced to around 0.004, renderer model FID needs to be reduced to around 15 .
+3. Trained 1000 people, 50 hours dataset, and over 50000 pieces of data. landmarks model eval_L1_loss needs to be reduced to around 0.004 ，3080 training for 12-24 hours, renderer model FID needs to be reduced to around 15 ,4090 training for 24-48 hours.
 4. Dear friends, we no released the best landmarks checkpoint, you need load pre training weights for easy subsequent training. but we released the best renderer checkpoint ,you can use it directly.
 5. Of course, you can also use a 1-minute video for fine-tuning training landmarks to achieve better commercial results.
 6. If you want to achieve better reasoning results, then refer to my demo video for shooting.
