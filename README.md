@@ -24,7 +24,7 @@ We have done the following work:
   </b>
 </p> 
 
-checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1BCn4JrBL7GTu0J6Q1WN8bA?pwd=lzzx
+checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1lzqgqO6vkFxa2-0AiS4a1A?pwd=lzzx
 
 ## 📊 Sample of processed images.
 <p align='center'>  
