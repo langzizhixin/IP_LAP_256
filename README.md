@@ -16,7 +16,7 @@ We have done the following work:
 ## 🏗️ IP_LAP_256 Project situation
 <p align='center'>
   <b>
-    <a href="https://www.bilibili.com/video/BV1xi53zbELH/?spm_id_from=333.1387.upload.video_card.click">Video </a>
+    <a href="https://www.bilibili.com/video/BV1fyhczFEuB/?vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
     | 
     <a href="https://github.com/langzizhixin">Project Page</a>
     |
@@ -24,7 +24,7 @@ We have done the following work:
   </b>
 </p> 
 
-checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1NiSEdrlRVZM_6SD4Igdtlg?pwd=lzzx 
+checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1BCn4JrBL7GTu0J6Q1WN8bA?pwd=lzzx
 
 ## 📊 Sample of processed images.
 <p align='center'>  
