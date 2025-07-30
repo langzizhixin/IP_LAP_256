@@ -11,6 +11,7 @@ We have done the following work:
 4. Dear friends, we no released the best landmarks checkpoint, you need load pre training weights for easy subsequent training. but we released the best renderer checkpoint ,you can use it directly.
 5. Of course, you can also use a 1-minute video for fine-tuning training landmarks to achieve better commercial results.
 6. If you want to achieve better reasoning results, then refer to my demo video for shooting.
+7. Requirements, Python==3.7.11 , torch==1.13.1 ， CUDA==11.3 . Of course, you can also choose other versions as long as they correspond well and can run.
 
 ## 🏗️ IP_LAP_256 Project situation
 <p align='center'>
