@@ -2,14 +2,14 @@
 # 一个可以还原本人牙齿和嘴型的商用泛化数字人项目。
 # 推理视频需要开口说话，可以数数1、2、3、4..... 也可以随便说。
 This is a project about talking faces. It is a commercial digital human project that faithfully reproduces human faces, mouths, and teeth.We use 256X256 sized facial images for training, Because his face is cut from the forehead, the face size of 256X256 is equivalent to the face size of wav2lip384. So it can generate 720p, 1080p, 2k ,4k Digital Humanhuman videos. 
-This model innovatively uses attention mechanism, which can reference the mouth shape of the face in the previous and subsequent frames to generate new mouth shapes. Thus achieving the restoration of one's own teeth and mouth shape.
+Transformer is you need. SO this model innovatively uses attention mechanism, which can reference the mouth shape of the face in the previous and subsequent frames to generate new mouth shapes. Thus achieving the restoration of one's own teeth and mouth shape.
 IP_LAP use a network structure of 128x128  , IP_LAP_256 use a network structure of 256x256.
 We have done the following work:
 1. Add video cutting codes.
 2. Optimized the network structure and increased the clarity of face segmentation.
-3. Trained 1000 people, 50 hours dataset, and over 50000 pieces of data.
-4. Dear friends, we no released the best landmark  checkpoint, you need load pre training weights for easy subsequent training. but we released the best renderer checkpoint ,you can use it directly.
-5. Of course, you can also use a 1-minute video for fine-tuning training to achieve better commercial results.
+3. Trained 1000 people, 50 hours dataset, and over 50000 pieces of data. landmarks model eval_L1_loss needs to be reduced to around 0.004, renderer model FID needs to be reduced to around 15 .
+4. Dear friends, we no released the best landmarks checkpoint, you need load pre training weights for easy subsequent training. but we released the best renderer checkpoint ,you can use it directly.
+5. Of course, you can also use a 1-minute video for fine-tuning training landmarks to achieve better commercial results.
 6. If you want to achieve better reasoning results, then refer to my demo video for shooting.
 
 ## 🏗️ IP_LAP_256 Project situation
